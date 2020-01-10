@@ -15,6 +15,7 @@ const Index = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
+    console.log("getData");
     getData();
   }, []);
 
