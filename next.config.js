@@ -8,7 +8,7 @@ module.exports = phase => {
   const isSer = phase === PHASE_PRODUCTION_BUILD;
   const env = {
     APP_DOMAIN: (() => {
-      if (isDev) return "https://localhost:3000";
+      if (isDev) return "http://localhost:3000";
       if (isSer) return "https://inmymine.com";
     })(),
     API_DOMAIN: (() => {
