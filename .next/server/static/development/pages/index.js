@@ -1367,7 +1367,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LOGO", function() { return LOGO; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LOGO_TITLE", function() { return LOGO_TITLE; });
 const LOGO = {
-  src: `${"https://localhost:3000"}/static/img/avatar2.png`,
+  src: `${"http://localhost:3000"}/static/img/avatar2.png`,
   alt: "Inminemine logo",
   class: "brand-image img-circle elevation-3",
   style: {

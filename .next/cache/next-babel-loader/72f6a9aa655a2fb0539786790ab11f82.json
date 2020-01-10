@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const LOGO = {\n  src: `${process.env.APP_DOMAIN}/static/img/avatar2.png`,\n  alt: \"Inminemine logo\",\n  class: \"brand-image img-circle elevation-3\",\n  style: {\n    opacity: \".8\"\n  }\n};\nexport const LOGO_TITLE = {\n  label: \"IN_MY_MINE\"\n};","map":null,"metadata":{},"sourceType":"module"}

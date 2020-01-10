@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var LOGO = {\n  src: \"\".concat(process.env.APP_DOMAIN, \"/static/img/avatar2.png\"),\n  alt: \"Inminemine logo\",\n  \"class\": \"brand-image img-circle elevation-3\",\n  style: {\n    opacity: \".8\"\n  }\n};\nexport var LOGO_TITLE = {\n  label: \"IN_MY_MINE\"\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"// export const endpoint = {\n//   url: \"https://jsonplaceholder.typicode.com\"\n// };\nexport const configAPI = {\n  todo: {\n    get: {\n      url: \"/todos\",\n      method: \"GET\"\n    },\n    post: {\n      url: \"/todos\",\n      method: \"POST\"\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

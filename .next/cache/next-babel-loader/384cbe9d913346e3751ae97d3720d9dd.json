@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const SIDEBAR_ITEM = [{\n  id: \"bmi\",\n  label: \"ค่าดัชนีมวลกาย\",\n  link: \"/bmi\"\n}, {\n  id: \"heart_rate_zone\",\n  label: \"โซนออกกำลังกาย\",\n  link: \"/bmi\"\n}, {\n  id: \"calories\",\n  label: \"แคลลอรี่ในอาหาร\",\n  link: \"/bmi\"\n}];","map":null,"metadata":{},"sourceType":"module"}

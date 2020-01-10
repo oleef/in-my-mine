@@ -5974,7 +5974,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
   render() {
-    const appDomain = "https://localhost:3000";
+    const appDomain = "http://localhost:3000";
     return __jsx("html", {
       __source: {
         fileName: _jsxFileName,
